@@ -1,0 +1,23 @@
+
+ table 
+ {
+  border-collapse: collapse;
+   color:  #a5a58d;
+  width: 50%;
+  font-size: 14px;
+
+}
+
+td, th
+ {
+ 
+  border: 1px solid #a5a58d;
+  text-align: center;
+  padding: 8px;
+}
+
+button{
+    width: 116px;
+    height: 38px;
+  background-color: #a5a58d63 ;
+}
